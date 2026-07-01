@@ -1,0 +1,232 @@
+{
+  "summary": {
+    "total": 20,
+    "correct": 19,
+    "partial": 0,
+    "wrong": 1,
+    "accuracy_pct": 95.0,
+    "weighted_accuracy_pct": 95.0
+  },
+  "claims": [
+    {
+      "claim": "The COVID-19 vaccine contains microchips to track people",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 100,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 14.0,
+      "source": "Snopes, Reuters Fact Check"
+    },
+    {
+      "claim": "The Earth is flat",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 64,
+      "fallback_used": true,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 16.81,
+      "source": "NASA, scientific consensus"
+    },
+    {
+      "claim": "5G towers cause COVID-19",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 100,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 17.91,
+      "source": "WHO, FactCheck.org"
+    },
+    {
+      "claim": "Drinking bleach cures COVID-19",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 100,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 9.18,
+      "source": "FDA, CDC"
+    },
+    {
+      "claim": "Climate change is a hoax invented by China",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 95,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 13.13,
+      "source": "NASA, IPCC, PolitiFact"
+    },
+    {
+      "claim": "Vaccines cause autism",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 100,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 8.06,
+      "source": "CDC, WHO, Snopes"
+    },
+    {
+      "claim": "The moon landing was faked by NASA",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 95,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 9.88,
+      "source": "NASA, Snopes"
+    },
+    {
+      "claim": "Bill Gates wants to use vaccines to depopulate the world",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 95,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 9.8,
+      "source": "Snopes, FactCheck.org"
+    },
+    {
+      "claim": "Chemtrails are chemical agents sprayed by governments to control populations",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 98,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 12.99,
+      "source": "EPA, Snopes"
+    },
+    {
+      "claim": "QAnon's predictions about the deep state have been proven accurate",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 95,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 14.84,
+      "source": "PolitiFact, AP Fact Check"
+    },
+    {
+      "claim": "NASA confirmed the existence of water ice on the Moon",
+      "expected": "Confirmed",
+      "actual": "Confirmed",
+      "confidence": 98,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 15.97,
+      "source": "NASA official announcement"
+    },
+    {
+      "claim": "The Eiffel Tower is located in Paris, France",
+      "expected": "Confirmed",
+      "actual": "Confirmed",
+      "confidence": 100,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 10.96,
+      "source": "General knowledge, multiple encyclopedic sources"
+    },
+    {
+      "claim": "World War II ended in 1945",
+      "expected": "Confirmed",
+      "actual": "Complex/Mixed",
+      "confidence": 95,
+      "fallback_used": false,
+      "correct": false,
+      "partial": false,
+      "elapsed_s": 13.82,
+      "source": "Historical record"
+    },
+    {
+      "claim": "The human body is made up of approximately 60% water",
+      "expected": "Confirmed",
+      "actual": "Confirmed",
+      "confidence": 95,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 4.42,
+      "source": "Medical literature"
+    },
+    {
+      "claim": "Carbon dioxide levels in the atmosphere have been rising since the industrial revolution",
+      "expected": "Confirmed",
+      "actual": "Confirmed",
+      "confidence": 100,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 5.21,
+      "source": "NOAA, NASA"
+    },
+    {
+      "claim": "Social media causes depression in teenagers",
+      "expected": "Complex/Mixed",
+      "actual": "Complex/Mixed",
+      "confidence": 85,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 7.69,
+      "source": "Multiple studies, disputed causality"
+    },
+    {
+      "claim": "Eating red meat causes cancer",
+      "expected": "Complex/Mixed",
+      "actual": "Complex/Mixed",
+      "confidence": 90,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 15.81,
+      "source": "WHO classification, epidemiological debate"
+    },
+    {
+      "claim": "Bitcoin is used primarily for illegal transactions",
+      "expected": "Complex/Mixed",
+      "actual": "Complex/Mixed",
+      "confidence": 85,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 8.53,
+      "source": "Chainalysis, academic research"
+    },
+    {
+      "claim": "There is intelligent life elsewhere in the universe",
+      "expected": "Inconclusive",
+      "actual": "Inconclusive",
+      "confidence": 85,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 7.07,
+      "source": "No confirmed evidence either way"
+    },
+    {
+      "claim": "Ancient aliens built the Egyptian pyramids",
+      "expected": "Debunked",
+      "actual": "Debunked",
+      "confidence": 95,
+      "fallback_used": false,
+      "correct": true,
+      "partial": false,
+      "elapsed_s": 7.04,
+      "source": "Archaeological consensus"
+    }
+  ]
+}
